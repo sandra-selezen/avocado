@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "Welcome to our website!",
+    "about": "Learn more about our company."
+  },
+  "AboutPage": {
+    "ourMission": "Our mission is to provide quality services to our clients.",
+    "ourTeam": "Our team consists of experienced professionals.",
+    "careers": "Join us and grow your career with us."
+  }
+}
